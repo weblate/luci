@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-05-19 19:36+0200\n"
-"PO-Revision-Date: 2024-10-23 22:11+0000\n"
+"PO-Revision-Date: 2024-10-24 16:36+0000\n"
 "Last-Translator: Džiugas Januševičius <dziugas1959@hotmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationscoovachilli/lt/>\n"
@@ -61,7 +61,7 @@ msgstr "Leisti visus seansus, kai „RADIUS“ yra nepasiekiamas"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:452
 msgid "Allow all, absent RADIUS"
-msgstr "Leisti visus, be „RADIUS“"
+msgstr "Leisti visus, nedalyvaujant/nebūnant „RADIUS“"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:129
 msgid "Allow client to use any IP Address"
@@ -97,7 +97,7 @@ msgstr "Autenfikavimo prievadas"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:391
 msgid "Auxiliary server"
-msgstr "Valdomasis serveris"
+msgstr "Pagalbinis serveris"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:233
 msgid "Be strict about MAC Auth (no DHCP reply until we get RADIUS reply)"
@@ -115,7 +115,7 @@ msgstr "„COA“ prievadas"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:458
 msgid "COA no IP check"
-msgstr "„COA“ be IP patikrinimo"
+msgstr "„COA“ be IP patikrinimo/-os"
 
 #: applications/luci-app-coovachilli/htdocs/luci-static/resources/view/coovachilli/coovachilli.js:128
 msgid "Chilli XML"
